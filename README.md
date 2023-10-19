@@ -1,4 +1,4 @@
-# 每日學習記錄 (Everyday Learning - EL)
+# 每日學習記錄 (Ever Learning - EL)
 
 本專案是學習記錄，用於追蹤我的日常學習進度。
 
@@ -6,13 +6,13 @@
 
 本專案的目標是：
 
-- 記錄每天的學習進度和成果。
+- 記錄學習進度和成果。
 - 分享我學到的新知識、技能和專案。
 - 鼓勵自我學習和持續提升。
 
 ## 內容
 
-我的每日學習記錄包括但不限於以下項目：
+學習記錄包括但不限於以下項目：
 
 - 技術文章的摘要和筆記。
 - 小型程式專案的程式碼和解釋。
@@ -30,21 +30,21 @@
 
 - 電子郵件：krischiang0301@gmail.com
 
-# Daily Learning Log (Everyday Learning - EL)
+# Daily Learning Log (Ever Learning - EL)
 
-This project is a learning log used to track my daily learning progress.
+This project is a learning log used to track my learning progress.
 
 ## About the Project
 
 The goal of this project is to:
 
-- Record daily learning progress and achievements.
+- Record learning progress and achievements.
 - Share the new knowledge, skills, and projects I've learned.
 - Encourage self-learning and continuous improvement.
 
 ## Content
 
-My daily learning log includes, but is not limited to, the following:
+My learning log includes, but is not limited to, the following:
 
 - Summaries and notes on technical articles.
 - Code and explanations for small programming projects.

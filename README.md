@@ -1,4 +1,4 @@
-# 每日學習記錄 (Ever Learning - EL)
+# 學習記錄 (Ever Learning - EL)
 
 本專案是學習記錄，用於追蹤我的日常學習進度。
 
@@ -30,7 +30,7 @@
 
 - 電子郵件：krischiang0301@gmail.com
 
-# Daily Learning Log (Ever Learning - EL)
+# Learning Log (Ever Learning - EL)
 
 This project is a learning log used to track my learning progress.
 
